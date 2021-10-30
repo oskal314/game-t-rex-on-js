@@ -1,1 +1,1 @@
-# game-t-rex-on-js
+# game-t-rex
